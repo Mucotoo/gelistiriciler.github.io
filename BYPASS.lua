@@ -5,7 +5,6 @@ LUACODEX.searchNumber(":/data/user/0/com.tencent")
 LUACODEX.getResults(99999)
 LUACODEX.editAll("116", LUACODEX.TYPE_BYTE)
 LUACODEX.clearResults()
-LUACODEX.alert(" 🇸🇦𝐃𝐞𝐜𝐨𝐝𝐢𝐧𝐠 𝐁𝐲 @𝐃𝐄𝐂𝐁𝐘𝐃𝐄𝐂🇸🇦 ")
 end
 
 function ANTBANV1()
